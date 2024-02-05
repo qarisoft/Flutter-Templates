@@ -1,7 +1,7 @@
 # Flutter Templates from atomsbox
 Jumpstart your app development process with pre-built solutions. Check the Flutter templates available for sales on atomsbox.com
 
-[Check the template available](https://www.atomsbox.com/templates)
+[Check the templates available](https://www.atomsbox.com/templates)
 
 ### Social Media (X Clone) App
 The Social Media (X Clone) App template is built with Flutter and gives you a codebase designed to mimic the core features of a popular social media platform ('X'). This template is a starting point for developers looking to create a social media app without building everything from scratch.
