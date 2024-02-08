@@ -3,6 +3,15 @@ Jumpstart your app development process with pre-built solutions. Check the Flutt
 
 [Check the templates available](https://www.atomsbox.com/templates)
 
+
+# Holiday Booking (AirBnB Clone) App
+The Holiday Booking App template is built with Flutter that aims to replicate the functionalities and the design of the popular short-term property booking app AirBnB. If you're keen on creating a holiday booking app, this template offers a head start without the need to build everything from scratch.
+[More details about the Holiday Booking App](https://www.atomsbox.com/templates/a833adda-77c1-4e9f-bb51-422b9f74a953)
+
+![Hero](screenshots/holiday-booking-app.png)
+
+
+
 ### Social Media (X Clone) App
 The Social Media (X Clone) App template is built with Flutter and gives you a codebase designed to mimic the core features of a popular social media platform ('X'). This template is a starting point for developers looking to create a social media app without building everything from scratch.
 [More details about the Social Media (X Clone) App](https://www.atomsbox.com/templates/8f5da1aa-90ae-4696-9b58-5e6345f4c658)
