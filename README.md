@@ -3,6 +3,11 @@ Jumpstart your app development process with pre-built solutions. Check the Flutt
 
 [Check the templates available](https://www.atomsbox.com/templates)
 
+# eCommerce App 
+The eCommerce App template gives you a simple, ready-to-use eCommerce app that you can customize for your projects. It is designed using Flutter and Firebase as a backend. In addition, it allows you to easily process payments using Stripe.
+[More details about the eCommerce App](https://www.atomsbox.com/templates/db90a6c6-f85f-430f-8ea7-d1eafb59ee67)
+
+![Hero](screenshots/ecommerce.png) 
 
 # Holiday Booking (AirBnB Clone) App
 The Holiday Booking App template is built with Flutter that aims to replicate the functionalities and the design of the popular short-term property booking app AirBnB. If you're keen on creating a holiday booking app, this template offers a head start without the need to build everything from scratch.
